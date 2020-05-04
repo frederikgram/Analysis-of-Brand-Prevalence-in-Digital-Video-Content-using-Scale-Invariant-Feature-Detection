@@ -1,0 +1,34 @@
+\BOOKMARK [1][-]{section.1}{Abstract}{}% 1
+\BOOKMARK [1][-]{section.2}{Introduction}{}% 2
+\BOOKMARK [1][-]{section.3}{Data Collection}{}% 3
+\BOOKMARK [2][-]{subsection.3.1}{Fetching Videos}{section.3}% 4
+\BOOKMARK [3][-]{subsubsection.3.1.1}{Youtube-dl}{subsection.3.1}% 5
+\BOOKMARK [3][-]{subsubsection.3.1.2}{Conversion to Frames}{subsection.3.1}% 6
+\BOOKMARK [1][-]{section.4}{Detection Models}{}% 7
+\BOOKMARK [2][-]{subsection.4.1}{Requirements}{section.4}% 8
+\BOOKMARK [2][-]{subsection.4.2}{Possible Solutions}{section.4}% 9
+\BOOKMARK [2][-]{subsection.4.3}{Picking a Model}{section.4}% 10
+\BOOKMARK [1][-]{section.5}{Scale-Invariant Feature Detection}{}% 11
+\BOOKMARK [2][-]{subsection.5.1}{How It Works}{section.5}% 12
+\BOOKMARK [2][-]{subsection.5.2}{Implementation Details}{section.5}% 13
+\BOOKMARK [2][-]{subsection.5.3}{Code}{section.5}% 14
+\BOOKMARK [1][-]{section.6}{Extracting Insight}{}% 15
+\BOOKMARK [2][-]{subsection.6.1}{Viewer Interaction}{section.6}% 16
+\BOOKMARK [3][-]{subsubsection.6.1.1}{Fetching Chat Data}{subsection.6.1}% 17
+\BOOKMARK [3][-]{subsubsection.6.1.2}{Ensuring Uniqueness}{subsection.6.1}% 18
+\BOOKMARK [3][-]{subsubsection.6.1.3}{Visual Analysis}{subsection.6.1}% 19
+\BOOKMARK [3][-]{subsubsection.6.1.4}{Numerical Analysis}{subsection.6.1}% 20
+\BOOKMARK [2][-]{subsection.6.2}{Selective Viewcounts}{section.6}% 21
+\BOOKMARK [3][-]{subsubsection.6.2.1}{Example}{subsection.6.2}% 22
+\BOOKMARK [1][-]{section.7}{Scaleability}{}% 23
+\BOOKMARK [2][-]{subsection.7.1}{Piping}{section.7}% 24
+\BOOKMARK [3][-]{subsubsection.7.1.1}{Code}{subsection.7.1}% 25
+\BOOKMARK [2][-]{subsection.7.2}{Microservices}{section.7}% 26
+\BOOKMARK [3][-]{subsubsection.7.2.1}{Implementation}{subsection.7.2}% 27
+\BOOKMARK [2][-]{subsection.7.3}{Load Balancing}{section.7}% 28
+\BOOKMARK [3][-]{subsubsection.7.3.1}{Implementation}{subsection.7.3}% 29
+\BOOKMARK [1][-]{section.8}{Insight Useability}{}% 30
+\BOOKMARK [2][-]{subsection.8.1}{Generating Reports}{section.8}% 31
+\BOOKMARK [2][-]{subsection.8.2}{Example}{section.8}% 32
+\BOOKMARK [2][-]{subsection.8.3}{Code}{section.8}% 33
+\BOOKMARK [1][-]{section.9}{Conclusion}{}% 34

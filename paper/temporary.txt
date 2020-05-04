@@ -1,0 +1,12 @@
+Following the “rapid-prototyping for business” methodology that we have stuck to,
+during this project, we are again going to use a pre-made solution by Petter Kraabol
+ which he creatively dubbed: “Twitch-Chat-Downloader”.  
+This command-line tool allows us to download the complete chat-history from a twitch
+ VOD (Video-On-Demand), using either preset or custom formats.  We are largely only
+  interested in the exact time each comment was posted, and not the duration of which 
+  it stayed in the chat, and thus we are going to use the built-in format “irc”, which 
+  might be familiar to a few of you. 
+Visually, it looks like this:  [timestamp] <username> comment.
+This format is rather simple, but it gives us all the information we need,
+and as for the implementation, we used Python's subprocess library to use
+the tools CLI, and converted that to a python function..
