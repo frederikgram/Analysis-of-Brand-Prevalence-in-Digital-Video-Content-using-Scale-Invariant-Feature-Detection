@@ -5,4 +5,4 @@ Ignoring the terrible naming, this project allows advertisers to _automatically_
 
 This is done by analysis both the actual screen time of the advertisements (using SIFT) and event the percentage of the advertisement being show (meaning obstructing elements is considered)
 
-Furthemore, this project gives statistics on both user interaction and viewcounts, which is used to predict how much attention the users had during the time your advertisement was being shown.
+Furthermore, this project gives statistics on both user interaction and viewcounts, which is used to predict how much attention the users had during the time your advertisement was being shown.
