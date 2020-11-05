@@ -4,7 +4,7 @@ In the age of digital advertisement, especially non-interactive advertisements s
 
 This project is meant to be a prototype for how more interesting analytics can be extracted and calculated from videos in an easily-appliable way. 
 
-:bookmark: [Fast forward to example metrics](./models.md)
+:bookmark: [Fast forward to example metrics](#)
 
 :bookmark: [Fast forward to the interactive demo](#)
 
